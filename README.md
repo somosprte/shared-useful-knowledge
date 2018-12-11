@@ -18,3 +18,7 @@ Todas as dicas estarão disponíveis em Inglês e em Português.
 
 Enjoy! *#somosprte*
 
+
+# Links
+
+[.gitignore](https://github.com/somosprte/shared-useful-knowledge/tree/master/.gitgnore)
