@@ -12,7 +12,7 @@ Enjoy! *#somosprte*
 
 Este repositório foi criado para compartilhar conhecimento com todas as pessoas. É muito comum na nossa vida profissional nos pergutarmos: **Como é que eu resolvo isso?**
 
-Para responder alguams dessas perguntas nosso time irá alimnetar este repositório com o conhecimento adquirido durante o nosso apaixonado trabalho diário.
+Para responder algumas dessas perguntas nosso time irá alimentar este repositório com o conhecimento adquirido durante o nosso apaixonado trabalho diário.
 
 Todas as dicas estarão disponíveis em Inglês e em Português.
 

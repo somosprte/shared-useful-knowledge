@@ -10,7 +10,7 @@
 # Eu commitei arquivos/pastas que não deveriam ter sido enviadas ao respositório
 
 1. Adicione esses arquivos/pastas ao arquivo .gitignore 
-1. Execute `rm --cached file` para cada arquivou ou `rm --cached -r folder/.`
+1. Execute `rm --cached file` para cada arquivo ou `rm --cached -r folder/.`
 1. Faça um commit! Como sugestão, execute:
     * `git add .`
     * `git commmit -m "Fixed .gitignore not to commit unnecessary files"`
