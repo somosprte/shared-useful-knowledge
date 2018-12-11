@@ -1,4 +1,4 @@
-#About
+# About
 
 This repository has been created to share knowledge with everyone. It is very common in our professional life to ask ourselves: **How can I fix it?**
 
@@ -8,7 +8,7 @@ All tips will be available in English and Brazilian Portuguese.
 
 Enjoy! *#somosprte*
 
-#Sobre
+# Sobre
 
 Este repositório foi criado para compartilhar conhecimento com todas as pessoas. É muito comum na nossa vida profissional nos pergutarmos: **Como é que eu resolvo isso?**
 
