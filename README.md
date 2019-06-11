@@ -22,3 +22,5 @@ Enjoy! *#somosprte*
 # Links
 
 [.gitignore](https://github.com/somosprte/shared-useful-knowledge/tree/master/.gitgnore)
+
+[Installing Fira Code in Linux, and enabling it on VSCode](https://gist.github.com/lucasGabrielDeAA/406259a383060355b40529d1173c8f33)
