@@ -10,4 +10,5 @@ O repositório do projeto FireCoda, disponibiliza um exemplo de instalação da 
 # Links
 
 [Installing Fira Code in Linux, and enabling it on VSCode](https://gist.github.com/lucasGabrielDeAA/406259a383060355b40529d1173c8f33)
+
 [Fira Code](https://github.com/tonsky/FiraCode)
